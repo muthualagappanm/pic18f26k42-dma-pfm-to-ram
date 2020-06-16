@@ -4,8 +4,8 @@
     "content": {
         "metaDataVersion": "1.0.0",
         "name": "com.microchip.mcu8.mplabx.project.DMA_PEM_to_RAM",
-        "version": "1.82.1",
-        "displayName": "DMA - PFM to RAM",
+        "version": "1.82.0",
+        "displayName": "Hello World",
         "projectName": "PIC16LF18456-DMA-PEM-to-RAM",
         "shortDescription": "Code example showing DMA module reading data from a look-up table stored in the flash memory and write it to the PWM duty cycle register.",
         "ide": {
