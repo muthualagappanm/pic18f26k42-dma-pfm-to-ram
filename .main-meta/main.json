@@ -3,13 +3,13 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.0.0",
-        "name": "com.microchip.mcu8.mplabx.project.DMA_PEM_to_RAM",
+        "name": "com.microchip.mcu8.mplabx.project.DMA_PEM",
         "version": "1.82.0",
         "displayName": "Hello World",
         "projectName": "PIC16LF18456-DMA-PEM-to-RAM",
         "shortDescription": "Code example showing DMA module reading data from a look-up table stored in the flash memory and write it to the PWM duty cycle register.",
         "ide": {
-            "name": "MPLABX",
+            "name": "Atmel Studio",
             "semverRange": ">=5.30.0"
         },
         "compiler": {
@@ -17,11 +17,11 @@
             "semverRange": "^5.30"
         },
         "dfp": {
-            "name": "PIC16LF18456_DFP",
+            "name": "PIC18F47Q10_DFP",
             "semverRange": "^1.3.222"
         },
         "configurator": {
-            "name": "MCC",
+            "name": "Atmel START",
             "semverRange": ">=3.75"
         },
         "device": {
@@ -30,24 +30,26 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "PIC16LF18456",
+                "name": "PIC18F47Q10",
                 "versionRange": "*"
             }
         },
-        "author": "Atmel",
+        "author": "Anne Other",
         "subcategories": [
             [
-                "Labs"
+                "BLE"
+            ],
+            [
+                "Analog"
             ]
         ],
         "peripherals": [
-            "DMA",
-            "PWM",
-            "TMR"
+            "ADC"
         ],
         "keywords": [
-            "Labs",
-            "DMA"
+            "Analog",
+            "BLE",
+            "GPIO"
         ],
         "additionalData": {
             "longDescription": {
