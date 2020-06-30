@@ -1,3 +1,15 @@
+# Custom Section to test Discover application - Image test
+
+[![MCHP-Root](../chip-root.png)](https://www.microchip.com)
+
+[![MCHP-Root](../chip-root.png)](chip-root.png)
+
+[![MCHP-Image-In_folder](../pic18f26k42-dma-pfm-to-ram.X/chip-in-folder.png)](../pic18f26k42-dma-pfm-to-ram.X/chip-in-folder.png)
+
+[![MCHP-Root-Folder](../pic18f26k42-dma-pfm-to-ram.X)](../pic18f26k42-dma-pfm-to-ram.X)
+
+[![MCHP-Absolute-Image](/chip-root.png)](chip-root.png)
+
 # Custom Section to test Discover application - Markdown URL
 
 The path to root folder: [pic18f26k42-dma-pfm-to-ram.X](../pic18f26k42-dma-pfm-to-ram.X)
