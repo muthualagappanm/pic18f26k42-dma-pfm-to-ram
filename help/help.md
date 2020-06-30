@@ -1,3 +1,13 @@
+# Custom Section to test Discover application - html file test
+
+The path to file in root: [index.html](../index.html)
+
+The absolute path to file in root: [index.html](/index.html)
+
+The path to file inside folder: [index.html](../pic18f26k42-dma-pfm-to-ram.X/index.html)
+
+The absolute path to file inside folder: [index.html](/pic18f26k42-dma-pfm-to-ram.X/index.html)
+
 # Custom Section to test Discover application - Image test
 
 [![MCHP-Root](../chip-root.png)](https://www.microchip.com)
