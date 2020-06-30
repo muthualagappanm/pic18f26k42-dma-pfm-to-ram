@@ -1,22 +1,26 @@
 # Custom Section to test Discover application - Markdown URL
 
-The path to root folder: [pic18f26k42-dma-pfm-to-ram.X](../../pic18f26k42-dma-pfm-to-ram.X)
+The path to root folder: [pic18f26k42-dma-pfm-to-ram.X](../pic18f26k42-dma-pfm-to-ram.X)
 
 The path to help folder: [help](../help)
 
-The path to file in root: [cloudprovider.yml](../../cloudprovider.yml)
+The path to file in root: [cloudprovider.yml](../cloudprovider.yml)
 
-The path to file in root folder: [pic18f26k42-dma-pfm-to-ram.X/main.c](../../pic18f26k42-dma-pfm-to-ram.X/main.c)
+The path to file in root folder: [pic18f26k42-dma-pfm-to-ram.X/main.c](../pic18f26k42-dma-pfm-to-ram.X/main.c)
 
-The path to file in help folder: [document.txt](document.txt)
+The path to file inside help folder: [document.txt](reference/document.txt)
 
-The path to root image: [chip in root](../../chip-in-folder.png)
+The path to file inside help folder using ./: [document.txt](./reference/document.txt)
 
-The path to image in folder: [pic18f26k42-dma-pfm-to-ram.X/chip-in-folder.png](../../pic18f26k42-dma-pfm-to-ram.X/chip-in-folder.png)
+The path to root image: [chip in root](../chip-in-folder.png)
+
+The path to image in folder: [pic18f26k42-dma-pfm-to-ram.X/chip-in-folder.png](../pic18f26k42-dma-pfm-to-ram.X/chip-in-folder.png)
 
 The absolute path root folder: [pic18f26k42-dma-pfm-to-ram.X](/pic18f26k42-dma-pfm-to-ram.X)
 
 The absolute path to file in root folder: [pic18f26k42-dma-pfm-to-ram.X/main.c](/pic18f26k42-dma-pfm-to-ram.X/main.c)
+
+The absolute path to image in root folder: [pic18f26k42-dma-pfm-to-ram.X/main.c](/pic18f26k42-dma-pfm-to-ram.X/chip-in-folder.png)
 
 # Custom Section to test Discover application - HTML
 
